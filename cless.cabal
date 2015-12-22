@@ -19,7 +19,7 @@ source-repository head
 executable cless
   main-is:             Main.hs
 
-  build-depends:       base >=4.7 && <4.8
+  build-depends:       base >=4.7 && <5
                      , highlighting-kate >=0.5
                      , wl-pprint-terminfo >=3.7
                      , wl-pprint-extras
